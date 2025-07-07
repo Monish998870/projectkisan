@@ -36,7 +36,7 @@ Prevention Tips:
 Suggest simple, preventative measures to avoid recurrence.'''
 
 
-st.set_page_config(page_title="Project Kissan",page_icon=":robot")
+st.set_page_config(page_title="Project Kisan",page_icon=":robot")
 
 col1, col2, col3,col4,col5 = st.columns([1, 2,3,2, 1])
 with col3:

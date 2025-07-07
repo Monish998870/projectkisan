@@ -42,7 +42,7 @@ col1, col2, col3,col4,col5 = st.columns([1, 2,3,2, 1])
 with col3:
     st.image("logo.png", width=200)
 
-st.title("Project Kissan")
+st.title("Project Kisan")
 
 st.subheader("An application that empowers farmers with AI-driven crop diagnosis, market insights, and scheme guidance")
 
